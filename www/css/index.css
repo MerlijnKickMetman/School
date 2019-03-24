@@ -1,0 +1,548 @@
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One');
+
+body {
+    background-color: #464A6B;
+    font-family: 'Fredoka One', cursive;
+}
+
+.titel {
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_button {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 100px;
+    top: 111px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_button {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 100px;
+    top: 300px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel1 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 13px;
+    top: 124px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel2 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 101px;
+    top: 124px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel3 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 189px;
+    top: 124px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel4 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 277px;
+    top: 124px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel5 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 13px;
+    top: 208px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel6 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 101px;
+    top: 208px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel7 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 189px;
+    top: 208px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel8 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 277px;
+    top: 208px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel9 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 13px;
+    top: 292px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel10 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 101px;
+    top: 292px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel11 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 189px;
+    top: 292px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel12 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 277px;
+    top: 292px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel13 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 13px;
+    top: 376px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel14 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 101px;
+    top: 376px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel15 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 189px;
+    top: 376px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel16 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 277px;
+    top: 376px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel17 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 13px;
+    top: 459px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel18 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 101px;
+    top: 459px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel19 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 189px;
+    top: 459px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_tafel20 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 277px;
+    top: 459px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.oefenen_homebutton {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 143px;
+    top: 542px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel1 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 13px;
+    top: 124px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel2 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 101px;
+    top: 124px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel3 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 189px;
+    top: 124px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel4 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 277px;
+    top: 124px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel5 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 13px;
+    top: 208px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel6 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 101px;
+    top: 208px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel7 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 189px;
+    top: 208px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel8 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 277px;
+    top: 208px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel9 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 13px;
+    top: 292px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel10 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 101px;
+    top: 292px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel11 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 189px;
+    top: 292px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel12 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 277px;
+    top: 292px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel13 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 13px;
+    top: 376px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel14 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 101px;
+    top: 376px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel15 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 189px;
+    top: 376px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel16 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 277px;
+    top: 376px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel17 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 13px;
+    top: 459px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel18 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 101px;
+    top: 459px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel19 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 189px;
+    top: 459px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_tafel20 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 277px;
+    top: 459px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.toetsen_homebutton {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 143px;
+    top: 542px;
+    background: #FC752A;
+    border-color: white;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+#Tafels {
+    margin-top: 600px;
+    color: white;
+}
+
+
