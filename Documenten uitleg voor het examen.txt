@@ -1,0 +1,134 @@
+Informatie behoeften
+
+
+Inleiding
+1. Je mag tijdens examen dit document niet bespreken met de docenten
+2. Schrijf alles over jezelf op in de inleiding en waarom heb je de opdracht geacepteerd(volg de instructies)(wie ben ik?)
+3. vanuit perspectief van een ontwikkelaar geen student
+4. taken en doelen korte samenvatting wat het verslag inhoud
+
+Bedrijf
+1. de opdracht gever
+2. hoe is de organisatie?
+3. een organigram (visueel model) hoe ziet ons bedrijf eruit.
+4. Wat heeft de inpact van het systeem op het bedrijf?
+5. wat is de winst die het bedrijf gaat boeken?
+6. benoem een ontwikkelings medodiek.
+7. welke tools gaan je gebruiken?
+8. welke tools van comminicatie ga je gebruiken?
+9. wie zijn de hoofdgebruikers van het systeem?
+
+Probleemstelling
+1. Waarom moet ik dit systeem ontwikkelen.
+2. filoshophyse betekenis zoeken van het probleem
+3. beschrijf de doelen van de applicatie of systeem.
+4. zoek het probleem leg die uit en beschrijf de doelen van het systeem dat het probleem oplost
+5. doelen verschillen per systeem
+
+Doelgroep(en)
+1. Beschrijf voor wie de applicatie bestemd is
+2. als je een tabel maakt zorg dat het tabel is uitgelegd zodat iedereen snapt waar het tabel over gaat.
+3. zorg dat alle informatie om te comminiseren met een klant te zien is.(dus bijvoorbeeld, naam, achternaam, telefoonnr, mail enzovoort)
+4. klanten die je hier benoemt moeten ook in het hoofdstuk bedrijf moeten benoemd
+
+Vormgeving
+1. Kom met voorbeelden en leg goed uit waarom je ze gebruikt geen flauwekeul.
+2. comminiceer alle keuzes die je maakt en wees creatief, efficient en vaardig.
+
+Informatie
+1. wanneer het systeem werkend is wat gaat er dan gebeuren hoe werkt het dan?
+2. maak een rapport hoe gaat het eruit zien hoe gaat het werken wat ga je gebruiken?
+3. Welke veranderingen zullen er plaats vinden bij het bedrijf systeem en proces bijv verkoop comminicatie
+
+Overig
+1. Moscow Analyse 
+2. wat ga je doen, wat moetje doen, wat mag je doen, wat hoef je niet te doen, wat moet je niet doen,(zoek op hoe het werkt op het internet).
+3. Leg ook uit waarom je het niet gaat doen.
+4. zorg dat je moscow analyse goed is gelijk want dan kan je de intervieuw goed doen
+
+
+projectplan
+
+
+Inleding
+1. korte beschrijving over de opdracht en de opdracht gever.
+2. organigram ook hier neer zetten
+3. vergeet nooit op te schrijven wat de lezer kan verwachten in dit document
+
+Doelstellingen
+1. bijna een kopie van de stelling van eisen
+2. welke doelen moeten worden betaald
+
+Betrokkenen
+1. hun functie 
+2. hun mail
+3. hun telnr
+
+Benodigheden
+1. zoveel mogelijk in detail gaan over welke benodigheden je nodig hebt. 
+2. doe effiecient opschrijven niet lang 
+
+Takenlijst
+1. je moet alles meenemen dat je doet voor dat je het project inlevert 
+2. klant intervieuwen niet vergeten als taak te zetten
+
+Planning
+
+1. je plant de realisatie en de test niet alleen kerntaak 1
+2. behalve als er wordt aangegeven van wel
+3. iedereen die je hebt benoemd bij betrokkenen moet je ook daar neer zetten
+4. zet de duur in uren neer en niet in dagen 
+5. vergeet je pauzes en feedback niet mee te nemen 
+6. en de afspraken en het opschrijven van feedback moet je ook in je planning meenemen
+
+
+Functioneel ontwerp
+
+
+Inleiding
+1. Wat moet ik als lezer verwachten in je verslag.
+2. Welke onderdelen ga je behandellen 
+3. Welke alinea vind je het meest belangrijk
+
+Functionaliteiten
+1. Moscow analiese 
+2. de eisen de wensen en de grenzen van het systeem
+3. zorg dat je alles hebt.
+
+Basis lay-out
+1. Hoe gaat ie eruit zien
+2. Welke schermen
+3. Wireframe
+4. in detail gaan over alles
+
+Navigatiestructuur
+1. navigatie organigram
+2. stuk tekst over hoe je gaat navigeren
+3. Goed uitleggen hoe je het gaat doen
+
+Gebruikerscherm
+1. In detail wat er gaat gebeuren
+2. Zorg dat het helemaal per stap is en gedaitaileerd
+
+Uitvoerontwerp
+1. Wat is de output
+2. bijvoorbeeld als er bij een restaurant een tafel wordt bestelt krijgt de klant een mail dat is ouput 
+3. visueel maken van alle output
+
+
+Technisch ontwerp
+
+
+Technische specificaties
+1. Use Case Diagram, Activity Diagram, Class Diagram(een van deze moet je kiezen)
+2. zorg dat je je keuze goed benaamd 
+3. mondelinge uitleg tijdens het examen
+4. waar om je welke hebt gekozen
+
+Relationeel datamodel
+1. E.R.D.
+2. Ga van 0 naar 3 in normaal vormen wees niet koppig
+3. VERGEET NIKS!!!!!!
+
+
+
